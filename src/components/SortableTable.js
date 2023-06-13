@@ -27,7 +27,7 @@ function SortableTable(props) {
           </div>
         </th>
       ),
-    };
+    };س
   });
 
   return <Table {...props} data={sortedData} config={updatedConfig} />;
