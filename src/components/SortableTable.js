@@ -27,7 +27,7 @@ function SortableTable(props) {
           </div>
         </th>
       ),
-    };س
+    };
   });
 
   return <Table {...props} data={sortedData} config={updatedConfig} />;
@@ -64,5 +64,5 @@ function getIcons(label, sortBy, sortOrder) {
     );
   }
 }
-
+s
 export default SortableTable;
