@@ -26,5 +26,5 @@ function Modal({ onClose, children, actionBar }) {
     document.querySelector('.modal-container')
   );
 }
-
+s
 export default Modal;
