@@ -64,5 +64,5 @@ function getIcons(label, sortBy, sortOrder) {
     );
   }
 }
-
+s
 export default SortableTable;
