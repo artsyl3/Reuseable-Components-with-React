@@ -86,4 +86,3 @@ function CounterPage({ initialCount }) {
 }
 
 export default CounterPage;
-gg
