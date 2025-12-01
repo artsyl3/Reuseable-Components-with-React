@@ -10,7 +10,7 @@ import CounterPage from './pages/CounterPage';
 function App() {
   return (
     <div className="container mx-auto grid grid-cols-6 gap-4 mt-4">
-      <SidebarS />
+      <Sidebar />
       <div className="col-span-5">
         <Route path="/accordion">
           <AccordionPage />
